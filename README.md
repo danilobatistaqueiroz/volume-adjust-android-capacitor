@@ -44,6 +44,10 @@ npx cap sync
 <docgen-index>
 
 * [`maximum()`](#maximum)
+* [`minimum()`](#minimum)
+* [`up()`](#up)
+* [`down()`](#down)
+* [`getMax()`](#getmax)
 
 </docgen-index>
 
@@ -54,6 +58,50 @@ npx cap sync
 
 ```typescript
 maximum() => any
+```
+
+**Returns:** <code>any</code>
+
+--------------------
+
+
+### minimum()
+
+```typescript
+minimum() => any
+```
+
+**Returns:** <code>any</code>
+
+--------------------
+
+
+### up()
+
+```typescript
+up() => any
+```
+
+**Returns:** <code>any</code>
+
+--------------------
+
+
+### down()
+
+```typescript
+down() => any
+```
+
+**Returns:** <code>any</code>
+
+--------------------
+
+
+### getMax()
+
+```typescript
+getMax() => any
 ```
 
 **Returns:** <code>any</code>

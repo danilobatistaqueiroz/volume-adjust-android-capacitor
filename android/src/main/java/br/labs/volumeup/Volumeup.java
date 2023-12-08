@@ -11,4 +11,12 @@ public class Volumeup {
   public void maximum() {
   }
 
+  public void medium() {
+
+  }
+
+  public void getMax(){
+    
+  }
+
 }
